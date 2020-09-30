@@ -1,0 +1,19 @@
+{
+  "name": "demo-pack",
+  "friendlyName": "Demo Pack",
+  "description": "An example to show that a demo pack can be loaded.",
+  "enabled": true,
+  "init": "https://0gu3p.csb.app/js/init.js",
+  "views": [
+    {
+      "id": "demo-page",
+      "friendlyName": "Demo Page",
+      "external": true,
+      "internal": true,
+      "height": 300,
+      "width": 300,
+      "url": "https://0gu3p.csb.app/",
+      "preload": []
+    }
+  ]
+}
