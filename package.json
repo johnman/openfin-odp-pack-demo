@@ -1,7 +1,7 @@
 {
   "name": "openfin-odp-pack-demo",
   "version": "1.0.0",
-  "description": "An example of an ODP pack.",
+  "description": "An example of an odp demo pack",
   "main": "index.html",
   "scripts": {
     "start": "serve",

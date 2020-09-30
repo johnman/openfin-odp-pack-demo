@@ -3,7 +3,7 @@
   "friendlyName": "Demo Pack",
   "description": "An example to show that a demo pack can be loaded.",
   "enabled": true,
-  "init": "https://0gu3p.csb.app/js/init.js",
+  "init": "https://johnman.github.io/openfin-odp-pack-demo/js/init.js",
   "views": [
     {
       "id": "demo-page",
@@ -12,7 +12,7 @@
       "internal": true,
       "height": 300,
       "width": 300,
-      "url": "https://0gu3p.csb.app/",
+      "url": "https://johnman.github.io/openfin-odp-pack-demo/",
       "preload": []
     }
   ]
